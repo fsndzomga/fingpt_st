@@ -3,6 +3,9 @@
 
 *Disclaimer: LLMs can hallucinate; this is not financial advice.*
 
+<img width="1416" alt="Screenshot of fingpt" src="https://github.com/user-attachments/assets/7d837e0b-e4bb-4a6a-813d-c1f8ffc0a050">
+
+
 ## Overview
 FinGPT is an AI-powered tool that makes stock recommendations based on live data from Google Finance. It leverages advanced language models, specifically the **Meta-Llama/Meta-Llama-3.1-405B-Instruct model** via **Nebius AI Studio**, to analyze financial data and generate tailored insights.
 
